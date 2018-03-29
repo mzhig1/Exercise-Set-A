@@ -7,3 +7,5 @@ Exercise 3
 <img src="https://github.com/mzhig1/Exercise-Set-A/blob/master/circle%20ting%20not%20black.PNG"/>
 Exercise 4
 <img src="https://github.com/mzhig1/Exercise-Set-A/blob/master/ting.PNG"/>
+Exercise 5
+<img src="https://github.com/mzhig1/Exercise-Set-A/blob/master/thisone1234.PNG"/>
