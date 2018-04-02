@@ -9,3 +9,5 @@ Exercise 4
 <img src="https://github.com/mzhig1/Exercise-Set-A/blob/master/ting.PNG"/>
 Exercise 5
 <img src="https://github.com/mzhig1/Exercise-Set-A/blob/master/thisone1234.PNG"/>
+Exercise 6
+<img src="https://github.com/mzhig1/Exercise-Set-A/blob/master/number6.JPG"/>
